@@ -1,0 +1,6 @@
+ [ERROR] 2024-02-21 14:22:50 main com.codegnan.app.Caught_02 : 22 - java.lang.ArithmeticException: / by zero
+[ERROR] 2024-02-21 14:48:53 main com.codegnan.app.Caught_o3 : 25 - java.lang.ArithmeticException: your account balance25is low to buy at the cost of40
+[ERROR] 2024-02-21 15:46:59 main com.codegnan.app.EcomApp_01 : 25 - java.lang.ArithmeticException: your balance is too low 25 to buy the product at the cost 40
+[ERROR] 2024-02-21 15:48:06 main com.codegnan.app.EcomApp_01 : 25 - java.lang.ArithmeticException: your balance is too low 15 to buy the product at the cost 40
+[ERROR] 2024-02-21 15:53:47 main com.codegnan.app.EcomApp_01 : 25 - java.lang.Exception: your balance is too low 15 to buy the product at the cost 50
+[ERROR] 2024-02-21 15:57:53 main com.codegnan.app.EcomApp_01 : 25 - java.lang.Exception: your balance is too low 20 to buy the product at the cost 50
